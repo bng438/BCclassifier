@@ -1,0 +1,2 @@
+Functions within the "Clustering" folder were used to determine the BC subtypes for each patient found within the TMT dataset.
+Functions within the "Classifier" folder were used to create the subtype & stage classifier.
