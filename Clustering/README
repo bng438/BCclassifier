@@ -1,0 +1,6 @@
+Run Functions in this Order:
+  1.) Clustering.R
+  2.) Identifying Subtype.R
+  3.) Assigning Subtype.R
+
+The file anov2.R was used to perform a 2-factor ANOVA in order to determine cluster identities
